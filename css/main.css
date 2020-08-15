@@ -299,3 +299,11 @@ textarea {
 }
 
 .carrier { background-color: burlywood;}
+
+.boom {
+  background-color: red;
+}
+
+.miss {
+  background-color: black;
+}
